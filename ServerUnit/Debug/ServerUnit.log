@@ -1,0 +1,10 @@
+﻿  WorkWithFile.cpp
+c:\users\мария\desktop\текущие дела\сети\сети_лр2.1\serverunit\workwithfile.cpp(49): warning C4244: =: преобразование "std::streamoff" в "uint32_t", возможна потеря данных
+c:\users\мария\desktop\текущие дела\сети\сети_лр2.1\serverunit\workwithfile.cpp(112): warning C4018: <: несоответствие типов со знаком и без знака
+  Server.cpp
+  Создание кода...
+c:\users\мария\desktop\текущие дела\сети\сети_лр2.1\serverunit\server.cpp(98): warning C4715: Server::receiveRequest: значение возвращается не при всех путях выполнения
+  Пропуск... (изменения не обнаружены)
+  ServerUnit.cpp
+  ServerUnit.vcxproj -> C:\Users\Мария\Desktop\текущие дела\СЕТИ\СЕТИ_ЛР2.1\ServerUnit\Debug\ServerUnit.exe
+  ServerUnit.vcxproj -> C:\Users\Мария\Desktop\текущие дела\СЕТИ\СЕТИ_ЛР2.1\ServerUnit\Debug\ServerUnit.pdb (Full PDB)

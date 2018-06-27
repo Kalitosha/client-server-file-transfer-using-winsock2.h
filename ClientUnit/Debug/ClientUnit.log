@@ -1,0 +1,5 @@
+﻿  WorkWithFile.cpp
+c:\users\мария\desktop\текущие дела\сети\сети_лр2.1\clientunit\workwithfile.cpp(47): warning C4244: =: преобразование "std::streamoff" в "uint32_t", возможна потеря данных
+c:\users\мария\desktop\текущие дела\сети\сети_лр2.1\clientunit\workwithfile.cpp(110): warning C4018: <: несоответствие типов со знаком и без знака
+  ClientUnit.vcxproj -> C:\Users\Мария\Desktop\текущие дела\СЕТИ\СЕТИ_ЛР2.1\ClientUnit\Debug\ClientUnit.exe
+  ClientUnit.vcxproj -> C:\Users\Мария\Desktop\текущие дела\СЕТИ\СЕТИ_ЛР2.1\ClientUnit\Debug\ClientUnit.pdb (Full PDB)
